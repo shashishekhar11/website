@@ -1,3 +1,4 @@
+Hello Friends!!
 # Geekcamp.SG
 
 This website uses jekyll.
